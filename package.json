@@ -1,0 +1,27 @@
+{
+  "name": "@hilford/rn-text",
+  "version": "1.0.0",
+  "description": "A simple and fully customizable React Native component that implements a progress stepper UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonnmh/hilford-rn-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-text",
+    "rn-text",
+    "rn-hilford-text",
+    "bonnmh",
+    "hilford"
+  ],
+  "author": "bonnmh",
+  "license": "MIT",
+  "homepage": "https://github.com/bonnmh/hilford-rn-text.git#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.0"
+  }
+}
